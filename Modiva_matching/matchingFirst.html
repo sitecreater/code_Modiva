@@ -1,0 +1,45 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Modiva_matching</title>
+  <link rel="stylesheet" href="./Modiva_matching.css"> <!-- 메인css-->
+</head>
+<body>
+  <div id="matchingF"> <!-- 매칭1 시작-->
+    <form>
+      <div class ="slide_wrapper"> <!-- 슬라이더 시작 -->
+        <ul class="slides">
+          <li><div class="items"><img src="http://placehold.it/100x100" alt=""><label>Netflix</label></div></li>
+          <li><div class="items"><img src="http://placehold.it/100x100" alt=""><label>WatchaPlay</label></div></li>
+          <li><div class="items"><img src="http://placehold.it/100x100" alt=""><label>Disney+</label></div></li>
+          <li><div class="items"><img src="http://placehold.it/100x100" alt=""><label>Wavve</label></div></li>
+          <li><div class="items"><img src="http://placehold.it/100x100" alt=""><label>Tving</label></div></li>
+          <li><div class="items"><img src="http://placehold.it/100x100" alt=""><label>Youtube</label></div></li>
+          <li><div class="items"><img src="http://placehold.it/100x100" alt=""><label>ApplePlus</label></div></li>
+          <li><div class="items"><img src="http://placehold.it/100x100" alt=""><label>HBOMax</label></div></li>
+        </ul>
+        <p class="controls">
+          <span class="prev">prev</span>
+          <span class="next">next</span>
+        </p>
+      </div> <!-- 슬라이더 끝-->
+      <div class="paragraph"> <!-- 문구 시작-->
+        <img class="train" src="https://js.cx/clipart/train.gif" onclick="this.style.left='450px'">
+        <h1>원하는 열차에 탑승하세요!</h1>
+        <h2>선택하신 플랫폼을 자유롭게 이용할 수 있습니다.</h2>
+        <h3> 어떤 이용객을 만날지 궁금한가요? 그럼 OTT열차 출발합니다!</h3>
+      </div> <!-- 문구 끝-->
+      <div class="colorCont" name='colorChange' id='colorChange'> <!--버튼페이지 컬러변경-->
+        <div class="threeBtn"> <!--버튼 세개 시작-->
+          <input type= "button" class="one button"  value="매칭하기" onclick="one_btn()"/>
+          <input type= "button" class="two button"  value="파티만들기" onclick="two_btn()"/>
+          <input type= "button" class="three button"  value="링크" onclick="three_btn()"/>
+        </div> <!--버튼 세개 끝-->
+      </div><!--버튼페이지 컬러변경-->
+    </form>
+  </div>  <!--매칭1 끝-->
+</body>
+<script src="Modiva_matching.js"></script>
+</html>
