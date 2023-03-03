@@ -8,4 +8,6 @@
 
 
 - reviewPage
-<img src="https://user-images.githubusercontent.com/85089341/222611585-c847684e-cd22-479a-9e80-dc29e57777ae.png" width="800" height="400" style="border-radius: 50%;"/>
+<img width="952" src="https://user-images.githubusercontent.com/85089341/222611585-c847684e-cd22-479a-9e80-dc29e57777ae.png">
+
+<img width="952" alt="유튜버 페이지" src="https://user-images.githubusercontent.com/60730831/111947378-b2358b80-8b20-11eb-86ff-b42887c320dd.png">
