@@ -4,10 +4,7 @@
 > 첫 프로젝트로 HTML, CSS, JS를 입문했던 때에 리뷰 페이지와 매칭 페이지를 반응형으로 개발했습니다.
 
 - matchingPage
-
-<a href="url">
   <img src="https://user-images.githubusercontent.com/85089341/222609498-52775b4a-f8cd-4956-924d-02e39e69041f.png" width="800" height="400">
-</a>
 
 
 - reviewPage
