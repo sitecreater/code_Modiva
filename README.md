@@ -4,7 +4,13 @@
 > 첫 프로젝트로 HTML, CSS, JS를 입문했던 때에 리뷰 페이지와 매칭 페이지를 반응형으로 개발했습니다.
 
 - matchingPage
-<p align="center"><img src="https://user-images.githubusercontent.com/85089341/222609498-52775b4a-f8cd-4956-924d-02e39e69041f.png" width="800" height="400"></p>
+<p align="center"><style="
+border: 3px solid gold;
+border-radius: 7px;
+-moz-border-radius: 7px;
+-khtml-border-radius: 7px;
+-webkit-border-radius: 7px;
+" src="https://user-images.githubusercontent.com/85089341/222609498-52775b4a-f8cd-4956-924d-02e39e69041f.png" width="800" height="400"></p>
   
 - reviewPage
 <p align="center"><img src="https://user-images.githubusercontent.com/85089341/222611585-c847684e-cd22-479a-9e80-dc29e57777ae.png" width="800" height="400"></p>
