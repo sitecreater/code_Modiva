@@ -9,5 +9,5 @@
 -reviewPage
 <img src="https://user-images.githubusercontent.com/85089341/85089341/222611382-7e3b4931-cfdf-400a-9a5c-0dc8a77f1a50.png"  width="700" height="370">
 
-<img src="[https://url/image.png](https://user-images.githubusercontent.com/85089341/222611585-c847684e-cd22-479a-9e80-dc29e57777ae.png)" width="50" height="50"/>
+<img src="https://user-images.githubusercontent.com/85089341/222611585-c847684e-cd22-479a-9e80-dc29e57777ae.png" width="50" height="50"/>
 
