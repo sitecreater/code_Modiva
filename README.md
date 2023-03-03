@@ -7,4 +7,4 @@
 <img src="https://user-images.githubusercontent.com/85089341/222609498-52775b4a-f8cd-4956-924d-02e39e69041f.png" width="800" height="400">
   
 - reviewPage
-<img src="https://user-images.githubusercontent.com/85089341/222611585-c847684e-cd22-479a-9e80-dc29e57777ae.png" width="800" height="400" text-align="center>
+<img src="https://user-images.githubusercontent.com/85089341/222611585-c847684e-cd22-479a-9e80-dc29e57777ae.png" width="800" height="400">
