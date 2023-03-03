@@ -11,5 +11,7 @@
 ## 포트폴리오 페이지에 사용한 기술
 ### Html, CSS, JS
 
+![image](https://user-images.githubusercontent.com/85089341/222605839-76d934d4-9aae-4669-a262-6a3d77212eb5.png)
+
 ## 반응형 웹페이지
 **PC, tablet, mobile 해상도에 따라 화면이 맞춰집니다.**
